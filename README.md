@@ -305,21 +305,21 @@ algorithms, knowledgebase and AI technology.
 ### [↑](#contents) Twitter
 
 * [Backtweets](http://backtweets.com) - BackTweets is a Twitter analytics tool that allows users to search through a Tweet archive.
-* [Blue Nod](http://bluenod.com)
+* [Blue Nod](http://bluenod.com) - dead
 * [burrrd.](https://burrrd.com)
-* [Crate](https://getcrate.co)
+* [Crate](https://getcrate.co) 404
 * [doesfollow](https://doesfollow.com)
-* [Fake Follower Check](https://fakers.statuspeople.com)
+* [Fake Follower Check](https://fakers.statuspeople.com) - dead
 * [First Tweet](http://ctrlq.org/first)
 * [Foller.me](http://foller.me)
 * [FollowCheck](http://followcheck.com)
 * [Followerwonk](http://followerwonk.com)
 * [Geochirp](http://www.geochirp.com)
 * [GeoSocial Footprint](http://geosocialfootprint.com)
-* [GetTwitterID](http://gettwitterid.com)
+* [GetTwitterID](http://gettwitterid.com) - dead
 * [Gigatweeter](http://gigatweeter.com)
 * [Ground Signal](https://www.groundsignal.com)
-* [HappyGrumpy](https://www.happygrumpy.com)
+* [HappyGrumpy](https://www.happygrumpy.com) - looks like a site for polls
 * [Harvard TweetMap](http://worldmap.harvard.edu/tweetmap)
 * [Hashtagify](http://hashtagify.me)
 * [Hashtags.org](http://www.hashtags.org)
@@ -328,37 +328,37 @@ algorithms, knowledgebase and AI technology.
 * [MyTweetAlerts](https://www.mytweetalerts.com/) - A tool to create custom email alerts based on Twitter search.
 * [Nations24](https://nations24.com)
 * [OneMillionTweetMap](http://onemilliontweetmap.com)
-* [Queryfeed](https://queryfeed.net)
-* [Rank Speed](http://www.rankspeed.com)
+* [Queryfeed](https://queryfeed.net) -dead
+* [Rank Speed](http://www.rankspeed.com) - dead
 * [Riffle](http://crowdriff.com/riffle/)
 * [RiteTag](https://ritetag.com)
 * [Sentiment140](http://www.twittersentiment.appspot.com)
-* [SnapBird](http://snapbird.org)
+* [SnapBird](http://snapbird.org) - 404
 * [Sleeping Time](http://sleepingtime.org)
 * [Social Bearing](http://www.socialbearing.com)
 * [Social Rank First Follower](http://socialrank.com/firstfollower)
 * [Spoonbill](http://spoonbill.io)
 * [Tagdef](https://tagdef.com)
-* [TeachingPrivacy](http://app.teachingprivacy.com)
+* [TeachingPrivacy](http://app.teachingprivacy.com) - dead
 * [Tinfoleak](https://tinfoleak.com)
 * [Trends24](http://trends24.in)
 * [TrendsMap](http://trendsmap.com)
 * [Ttrends](https://ttrends.co)
 * [Twazzup](http://www.twazzup.com)
-* [twbirthday](http://twbirthday.com)
+* [twbirthday](http://twbirthday.com) - does it work?
 * [TwChat](http://twchat.com)
-* [tweepsect](http://tweepsect.com)
+* [tweepsect](http://tweepsect.com) - broken
 * [TweetArchivist](http://www.tweetarchivist.com)
 * [TweetDeck](https://www.tweetdeck.com)
-* [Tweeten](http://tweeten.xyz)
+* [Tweeten](http://tweeten.xyz) - dead
 * [TweetMap](http://mapd.csail.mit.edu/tweetmap)
 * [TweetMap](http://worldmap.harvard.edu/tweetmap)
 * [TweetPsych](http://tweetpsych.com)
 * [Tweetreach](http://tweetreach.com)
 * [TweetStats](http://www.tweetstats.com)
-* [Tweet Tag](http://www.tweet-tag.com)
+* [Tweet Tag](http://www.tweet-tag.com) - dead
 * [TweetTunnel](http://tweettunnel.com)
-* [Twellow](http://www.twellow.com)
+* [Twellow](http://www.twellow.com) - News
 * [Tweriod](http://www.tweriod.com)
 * [Twiangulate](http://www.twiangulate.com)
 * [Twicsy](http://twicsy.com)
@@ -369,7 +369,7 @@ algorithms, knowledgebase and AI technology.
 * [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
 * [Twitter Audit](https://www.twitteraudit.com)
 * [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule)
-* [Twitter Counter](http://twittercounter.com)
+* [Twitter Counter](http://twittercounter.com) - dead
 * [Twitterfall](http://twitterfall.com)
 * [Twitter Search](http://search.twitter.com)
 * [TWUBS Twitter Chat](http://twubs.com/twitter-chats)
